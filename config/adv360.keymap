@@ -39,11 +39,11 @@
 
         default_layer {
             bindings = <
-      &kp ESC     &kp N1     &kp N2    &kp N3  &kp N4  &kp N5              &tog 1                                                                &mo 3  &kp N6    &kp N7     &kp N8       &kp N9    &kp N0  &kp EQUAL
-      &kp TAB  &kp COLON  &kp COMMA   &kp DOT   &kp P   &kp Y               &none                                                                &none   &kp F     &kp G      &kp C        &kp R     &kp L  &kp SLASH
- &kp CAPSLOCK      &kp A      &kp O     &kp E   &kp U   &kp I               &none  &kp END   &kp LALT                   &kp LGUI  &kp RCTRL      &none   &kp D     &kp H      &kp T        &kp N     &kp S  &kp MINUS
-    &kp LSHFT   &kp SEMI      &kp Q     &kp J   &kp K   &kp X               &none    &none   &kp HOME   &none   &none  &kp PG_UP      &none      &none   &kp B     &kp M      &kp W        &kp V     &kp Z  &kp RSHFT
-        &mo 2  &kp GRAVE   &kp BSLH  &kp LEFT  &kp UP                    &kp BSPC  &kp DEL  &kp LCTRL                  &kp PG_DN  &kp ENTER  &kp SPACE          &kp DOWN  &kp RIGHT  &kp AT_SIGN  &kp APOS      &mo 2
+      &kp ESC     &kp N1     &kp N2    &kp N3  &kp N4  &kp N5              &tog 1                                                                        &mo 3  &kp N6    &kp N7     &kp N8       &kp N9    &kp N0  &kp EQUAL
+      &kp TAB  &kp COLON  &kp COMMA   &kp DOT   &kp P   &kp Y               &none                                                                        &none   &kp F     &kp G      &kp C        &kp R     &kp L  &kp SLASH
+ &kp CAPSLOCK      &kp A      &kp O     &kp E   &kp U   &kp I               &none  &kp PRINTSCREEN   &kp LALT                   &kp LGUI  &kp RCTRL      &none   &kp D     &kp H      &kp T        &kp N     &kp S  &kp MINUS
+    &kp LSHFT   &kp SEMI      &kp Q     &kp J   &kp K   &kp X               &none            &none   &kp HOME   &none   &none  &kp PG_UP      &none      &none   &kp B     &kp M      &kp W        &kp V     &kp Z  &kp RSHFT
+        &mo 2  &kp GRAVE   &kp BSLH  &kp LEFT  &kp UP                    &kp BSPC          &kp DEL  &kp LCTRL                  &kp PG_DN  &kp ENTER  &kp SPACE          &kp DOWN  &kp RIGHT  &kp AT_SIGN  &kp APOS      &mo 2
             >;
         };
 
